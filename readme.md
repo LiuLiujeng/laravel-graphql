@@ -6,5 +6,5 @@
 - Host http://127.0.0.1:8081/
 
 ## Libraries
-- [GraphQL for PHP](https://github.com/webonyx/graphql-php)
-- [GraphQL for Laravel 5](https://github.com/Folkloreatelier/laravel-graphql)
+- [GraphQL for PHP(webonyx/graphql-php)](https://github.com/webonyx/graphql-php)
+- [GraphQL for Laravel(Folkloreatelier/laravel-graphql)](https://github.com/Folkloreatelier/laravel-graphql)
